@@ -114,4 +114,5 @@ Backend APIs Documentation: [https://documenter.getpostman.com/view/12579961/UzB
 ![Image Camer10](__MD__/14.PNG)
 
 > Note: Jika menggunakan real hardware dan pengembangannya mengguanakan Arduino Framework, maka kode dapat dilihat seperti [kode](__MD__/main.cpp) ini
+
 > Note : API lain tidak perlu dijalankan, hanya untuk mempermudah pengembangan.
